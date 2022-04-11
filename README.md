@@ -12,4 +12,4 @@ you can sniff and monitor your server and save your logs and report locally.
 
 use my commando tool to decrypt this toool.
 
-use netstat@2022 as password
+netstat@2022 as password
