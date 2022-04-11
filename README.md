@@ -1,4 +1,4 @@
-# CaptureONFLY-linux
+# CaptureONFLY-linux for linux users
 Auxgrep's network monitor 
 
 hey !! this is a simple piece of code that will help sysadmins to monitor their server on fly
